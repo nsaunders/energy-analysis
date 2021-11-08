@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  suncalc: ^1.8.0
+
+dependencies:
+  suncalc: 1.8.0
+
+packages:
+
+  /suncalc/1.8.0:
+    resolution: {integrity: sha1-HZiYEJVjB4dQ9JlKlZ5lTYdqy/U=}
+    dev: false
